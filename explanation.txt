@@ -1,0 +1,8 @@
+Created a simple SVM model for classification using kernel and matrices 
+カーネルと行列を使用したクラス分類のための簡単なSVMモデルを作成しました。
+
+
+
+
+
+
